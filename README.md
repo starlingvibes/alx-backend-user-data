@@ -1,2 +1,3 @@
-# alx-backend-user-data
-Learning appropriate ways to store and handle user data, identifying PII, non-PII and personal data
+# ALX Backend User Data
+
+This repository contains a series of projects for learning to process user data.
